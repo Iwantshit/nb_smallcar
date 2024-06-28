@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\nb_small_car\CYT4BB7_Library-master\Example\car_pro\project\iar\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\nb_small_car\CYT4BB7_Library-master\Example\car_pro\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>F:\Car\CYT4BB7_Library-master\CYT4BB7_Library-master-new\CYT4BB7_Library-master\TryNew\project\iar\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>F:\Car\CYT4BB7_Library-master\CYT4BB7_Library-master-new\CYT4BB7_Library-master\TryNew\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\WeChat\自存\WeChat Files\wxid_va1jxsv332n122\FileStorage\File\2024-03\2024CAR\2024CAR\project\iar\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>D:\WeChat\自存\WeChat Files\wxid_va1jxsv332n122\FileStorage\File\2024-03\2024CAR\2024CAR\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>F:\Car\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m7_0\Exe\cyt4bb7_cm_7_0.out</Path>
+            <Output>
+                <Path>F:\Car\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m7_0\List\cyt4bb7_cm_7_0.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

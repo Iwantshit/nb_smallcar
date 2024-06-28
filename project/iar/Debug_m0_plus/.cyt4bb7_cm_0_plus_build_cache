@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m0_plus\Exe\cyt4bb7_cm_0_plus.out</Path>
+            <Output>
+                <Path>D:\CYT4BB7_Library-master\2024CAR\project\iar\Debug_m0_plus\List\cyt4bb7_cm_0_plus.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>F:\Car\CYT4BB7_Library-master\CYT4BB7_Library-master-new\CYT4BB7_Library-master\TryNew\project\iar\Debug_m0_plus\Exe\cyt4bb7_cm_0_plus.out</Path>
+            <Output>
+                <Path>F:\Car\CYT4BB7_Library-master\CYT4BB7_Library-master-new\CYT4BB7_Library-master\TryNew\project\iar\Debug_m0_plus\List\cyt4bb7_cm_0_plus.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
